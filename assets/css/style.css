@@ -1,0 +1,60 @@
+* {
+    font-family: 'Calibri', 'Times New Roman', 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+section {
+    background-color: lemonchiffon;
+}
+
+/* Nav Bar Section */
+nav {
+    background-color: green;
+    height: 48px;
+}
+
+ul {
+    text-align: right;
+    margin-right: 10px;
+}
+
+li {
+    list-style-type: none;
+    color: white;
+    font-size: 24px;
+    display: inline;
+}
+
+/* Title Section */
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+/* Image */
+.center {
+    display: block;
+    margin: auto;
+}
+
+img {
+    background-color: lightblue;
+    padding: 10px;
+    border: 7.5px solid darkblue;
+}
+
+/* Text */
+p {
+    font-size: 20px;
+}
+
+/* Contact Section */
+#contact {
+    background-color: pink;
+}
+
+#contact-info {
+    text-align: center;
+    display: block;
+}
